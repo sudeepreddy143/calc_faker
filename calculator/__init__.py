@@ -1,5 +1,3 @@
-def add(num1, num2):
-    return num1 + num2
+from .add import add
+from .subtract import subtract
 
-def  subtract(num1, num2):
-    return num1 - num2
